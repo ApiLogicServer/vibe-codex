@@ -1,0 +1,8 @@
+# GenAI-Logic Hello World Dependencies
+# No external dependencies required for this basic example
+# This demonstrates the simplicity of the implementation
+
+# For future enhancements, consider:
+# openai>=1.0.0  # For real GenAI API integration
+# transformers>=4.20.0  # For local AI models
+# numpy>=1.21.0  # For numerical processing in logic rules
